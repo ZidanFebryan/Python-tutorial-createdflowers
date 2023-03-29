@@ -2,7 +2,7 @@
 
 Buka Visual Studio Code atau Semacamnya
 
----Coding---
+---Coding---br
 import turtle as tur
 (instal turtle dengan kata tur)
 bisa juga di ganti misl : import turtle as zi atau sesuka kalian
